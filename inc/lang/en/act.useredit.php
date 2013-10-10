@@ -1,0 +1,42 @@
+<?php
+$lang['anketa']                    =         'Profile';
+$lang['female']                    =         'Female';
+$lang['male']                      =         'Male';
+$lang['a_gen']                     =         'Gender:';
+$lang['a_name']                    =         'Name:';
+$lang['a_birth']                   =         'Birth date:';
+$lang['a_from']                    =         'From:';
+$lang['a_icq']                     =         'ICQ:';
+$lang['a_site']                    =         'Site:';
+$lang['a_ph_mod']                  =         'Phone model:';
+$lang['a_a_me']                    =         'About:';
+$lang['er_bad_gen']                =         'Do not enter the floor!';
+$lang['er_dl_name']                =         'The name can not exceed 50 characters!';
+$lang['er_bad_birth']              =         'Invalid birthday!';
+$lang['er_bad_mon']                =         'Invalid month birthday!';
+$lang['er_bad_year']               =         'Enter an incorrect birth year!';
+$lang['er_from']                   =         'The length of the field \"From\" may not exceed 50 characters!';
+$lang['er_icq']                    =         'The length of the field \"ICQ\" shall not exceed 50 characters!';
+$lang['er_site']                   =         'The length of the field \"site\" may not exceed 150 characters!';
+$lang['er_phone']                  =         'The length of the field \"Phone Model\" can not exceed 150 characters!';
+$lang['er_about']                  =         'The length of the field \"About\" may not exceed 300 characters!';
+$lang['ch_saved']                  =         'Changes saved!';
+$lang['anc_edit']                  =         'Edit profile';
+$lang['ed_day']                    =         'day:';
+$lang['ed_month']                  =         'Month:';
+$lang['m1']                        =         'January';
+$lang['m2']                        =         'February';
+$lang['m3']                        =         'March';
+$lang['m4']                        =         'April';
+$lang['m5']                        =         'May';
+$lang['m6']                        =         'June';
+$lang['m7']                        =         'July';
+$lang['m8']                        =         'August';
+$lang['m9']                        =         'September';
+$lang['m10']                       =         'October';
+$lang['m11']                       =         'November';
+$lang['m12']                       =         'December';
+$lang['year_r']                    =         'year:';
+$lang['save']                      =         'Save';
+
+?>

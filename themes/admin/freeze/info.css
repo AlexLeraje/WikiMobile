@@ -1,0 +1,99 @@
+body {
+max-width: 300px;
+margin: 0px auto;
+margin-top: 20px;
+border: 7px solid #ccc;
+padding: 0px;
+font-size: 14px;
+background: #eeeeee;
+ 
+}
+div.body{
+
+background: url(elem.gif) #ffffff; 
+background-repeat : repeat-x;
+}
+textarea.edit {
+font-size:14px;
+color:#000;
+border:1px solid #8cacbb;
+padding:0.3em 0 0 0.3em;
+width:100%;
+background: url(inputshadow.png) repeat-x #fff;
+margin:2px;
+}
+
+input.edit {
+font-size:14px;
+border:1px solid #8cacbb;
+color:#000;
+background: url(buttonshadow.png) bottom repeat-x #fff;
+vertical-align:middle;
+margin:2px;
+padding:1px;
+display:inline;    
+}
+
+input.edit:hover
+{
+ border:1px solid #436976;
+ background: url(buttonshadow2.png) bottom repeat-x #fff;
+ cursor: pointer;  
+}
+
+input.edit:active
+{
+ border:1px solid #436976;
+ background: url(buttonshadow3.png) top repeat-x #fff;
+ cursor: pointer;  
+}
+
+input.edit2 {
+font-size:14px;
+border:1px solid #8cacbb;
+color:#000;
+background: url(inputshadow.png) repeat-x #fff;
+vertical-align:middle;
+margin:2px;
+padding:3px;
+display:inline;	
+}
+
+hr {
+border:0px;
+border-top:1px solid #ccc;
+text-align:center;
+height:0px;
+margin: 1px;
+}
+
+a:link, a:visited { 
+color : #555555; 
+text-decoration : none; 
+} 
+a:hover { 
+color : #000000; 
+text-decoration : underline; 
+}
+
+
+
+
+li.dir {
+list-style-image : url(li.png);
+font-weight : bold;
+margin : 0 0 5px 0;
+}
+li.dir2 {
+list-style-image: url(li2.png);
+font-weight: bold;
+margin : 0 0 3px 0;
+}
+li.file {
+list-style-image: url(list.png);
+margin: 0 0 3px 0;
+}
+ul {
+margin : 5px 0 5px 0;
+padding : 0 0 0 20px;
+}

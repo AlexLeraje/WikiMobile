@@ -1,0 +1,36 @@
+<?php
+$lang['continue']                  =         'Continue';
+$lang['guest_g']                   =         'Guest:';
+$lang['ip_i']                      =         'IP:';
+$lang['error_imp']                 =         'Error!';
+$lang['smiles']                    =         'Smiles';
+$lang['back']                      =         'Back';
+$lang['create']                    =         'Create';
+$lang['depr_symb']                 =         'In the name of the page can not be used symbols: |, /, \, _';
+$lang['page_al_ex']                =         'Page with that name already exists! In WikiMobile title of each page must be unique!';
+$lang['del_fl_1']                  =         'file';
+$lang['del_fl_2']                  =         'delete!';
+$lang['cant_del_file']             =         'Can not delete file!';
+$lang['file_inf_1']                =         'files';
+$lang['file_inf_2']                =         'no extensions or exceed the maximum size';
+$lang['file_ost_ld']               =         'The remaining files were successfully downloaded.';
+$lang['all_ext']                   =         'Allowed file types to upload:';
+$lang['all_f_loaded']              =         'All files uploaded successfully!';
+$lang['prot_page']                 =         'Secure page';
+$lang['page_files']                =         'Article Files';
+$lang['s_paste']                   =         'Paste';
+$lang['s_del_l']                   =         'Del.';
+$lang['add_files']                 =         'Add Files';
+$lang['load_f']                    =         'Upload';
+$lang['more_r']                    =         'more...';
+$lang['txt_em_ty']                 =         'Do not put the text of article!';
+$lang['pg_name_empty']             =         'No page title!';
+$lang['pg_adde_new']               =         'Article added!';
+$lang['pg_add_on_mod']             =         'Article added to moderation!';
+$lang['pg_creating']               =         'Creating a page:';
+$lang['pagename_e']                =         'Page title:';
+$lang['text_t']                    =         'Text:';
+$lang['agree_comm']                =         'Allow Comments';
+$lang['nm_bgg_200']                =         'Name length exceeds 200 characters!';
+$lang['preview']                   =         'Preview';
+?>

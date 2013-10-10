@@ -1,0 +1,25 @@
+php_value register_globals 0
+php_value session.use_trans_sid 0
+php_value magic_quotes_gpc 0
+php_value magic_quotes_runtime 0
+php_value magic_quotes_sybase 0 
+php_value allow_url_fopen 1
+php_value arg_separator.output "&amp;"
+DirectoryIndex index.php
+AddDefaultCharset UTF-8
+Options -Indexes
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^file([0-9]+)/(.*?)$ ?do=down&file=$1 [B]
+RewriteRule ^wiki/(.{1,200})/(.{2})/([0-9]{1,11})$ ?wiki=$1&p=$3&lang=$2 [B]
+RewriteRule ^wiki/(.{1,200})/([0-9]{1,11})/(.{2})$ ?wiki=$1&p=$2&lang=$3 [B]
+RewriteRule ^wiki/(.{1,200})/([0-9]{1,11})$ ?wiki=$1&p=$2 [B]
+RewriteRule ^wiki/(.{1,200})/(.{2})$ ?wiki=$1&lang=$2 [B]
+RewriteRule ^wiki/(.{1,200})$ ?wiki=$1 [B]
+
+ErrorDocument 402 /?do=404	
+ErrorDocument 403 /?do=404
+ErrorDocument 404 /?do=404
+ErrorDocument 500 /?do=404

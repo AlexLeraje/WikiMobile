@@ -1,0 +1,37 @@
+<?php
+$lang['content']                   =         'Contents';
+$lang['act_akk']                   =         'Account activation:';
+$lang['lg_no_enter']               =         'You didn\'t enter your login!';
+$lang['ps_no_enter']               =         'You didn\'t enter your login!';
+$lang['wrong_pass']                =         'Incorrect password!';
+$lang['wrong_code']                =         'Incorrect security code!';
+$lang['login_l']                   =         'Login:';
+$lang['pass_p']                    =         'Password:';
+$lang['vkode_v']                   =         'Security code:';
+$lang['lg_more_15']                =         'Login must be from 3 to 15 characters long';
+$lang['error_login']               =         'Incorrect login!';
+$lang['us_exists']                 =         'User already exists!';
+$lang['ps_more_15']                =         'Password must be from 4 to 15 characters long';
+$lang['ps_not_r']                  =         'Passwords don\'t match!';
+$lang['empty_mail']                =         'E-mail not specified!';
+$lang['wrong_mail']                =         'Incorrect e-mail (must be like login@mail.net)!';
+$lang['mail_exists']               =         'E-mail is already used by other user!';
+$lang['you_login']                 =         'Your login:';
+$lang['you_mail']                  =         'Your e-mail:';
+$lang['repeat_ps']                 =         'Repeat password:';
+$lang['register_do']               =         'Register';
+$lang['m_acc_act']                 =         'Account activation';
+$lang['m_th_to_reg']               =         'Thanks for registering!';
+$lang['m_do_link']                 =         'To activate your account, please follow this link:';
+$lang['m_ps_wil_del']              =         'If you don\'t activate your account for 24 hours it will be deleted automatically!';
+$lang['n_data_enter']              =         'Login information';
+$lang['m_site_adm']                =         'Sincerely, site administration';
+$lang['m_ign_mail']                =         'If this letter was delivered to you by mistake, just ignore it';
+$lang['m_from']                    =         'From:';
+$lang['mail_sended']               =         'Letter with confirmation information sent to you by e-mail.';
+$lang['warn_activ']                =         'Attention! If you don\'t activate your account for 24 hours it will be deleted automatically!';
+$lang['wiki_reg']                  =         'Register in WIKI';
+$lang['content']                   =         'Contents';
+$lang['act_akk']                   =         'Account activation:';
+$lang['activ_suc']                 =         'Your account has been successfully activated. Now you can log in using your login and password';
+?>

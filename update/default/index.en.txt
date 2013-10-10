@@ -1,0 +1,17 @@
+===Welcome !===-----
+;You have successfully installed WikiMobile!
+;Script is ready for use. To get started, read the license agreement (licence.txt).
+;If you installed WikiMobile as a module, you can disable the registration on the site. This will also disappear link "Log in" and "Registration".
+Link to login and user administration: **http://Vashsayt/wikimobile/?do=login**
+===Thanks ===
+<hr/>
+;1) Project http://annimon.com and personally to **aNNiMON** 
+;2) **aNNIMuS** (ANS) for beta-testing
+;3) **Sehnsucht** (http://mbteam.ru) for the English localization
+;4) **ptiCa** for Ukrainian localization
+
+===Support ===
+<hr/>
+ * Support for using the script provided at http://annimon.com/forum/
+ * The latest version you can download at http://wikimobile.su
+ * Documentation on the script is located at http://wikimobile.su/?id=doc

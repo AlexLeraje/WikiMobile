@@ -1,0 +1,127 @@
+body, a, table{
+font:normal 11pt Helvetica, Arial, sans-serif;
+}
+
+body {
+max-width: 470px;
+margin: 0px auto;
+border: 1px solid #ccc;
+padding: 3px;
+font-size: 14px;
+}
+
+.elem{ 
+background-image : url(elem.gif); 
+background-repeat : repeat-x; 
+background-position : 50% top; 
+margin-top : 1px; 
+margin-bottom : 1px; 
+padding : 2px; 
+border : 1px solid #e1e1e1; 
+}
+
+
+.helem { 
+color : #fff; 
+text-shadow : #9d9d9d 1px 1px 1px; 
+background-color : #bfbfbf; 
+background-image : url(helem.gif); 
+background-repeat : repeat-x; 
+background-position : 50% top; 
+margin-top : 1px; 
+margin-bottom : 1px; 
+padding : 2px; 
+border : 1px solid #c9c9c9;
+font-size: 14px; 
+} 
+.helem a { 
+color : #fff; 
+border-bottom : 1px dotted #ececec; 
+} 
+.helem a:hover { 
+color : #f0f0f0; 
+border-bottom : 1px dotted #edf9fd; 
+}
+
+a:link, a:visited { 
+color : #555555; 
+text-decoration : none; 
+} 
+a:hover { 
+color : #000000; 
+text-decoration : underline; 
+}
+
+hr {
+border:0px;
+border-top:1px solid #ccc;
+text-align:center;
+height:0px;
+margin: 1px;
+}
+div.logo
+{
+	background: url(bg.png);
+}
+
+a.url{
+vertical-align: center;
+background:transparent url(li.png) 0px 1px no-repeat;
+padding:1px 0px 1px 14px;	
+}
+form {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+textarea.edit {
+font-size:14px;
+color:#000;
+border:1px solid #8cacbb;
+padding:0.3em 0 0 0.3em;
+width:98%;
+background: url(inputshadow.png) repeat-x #fff;
+margin:2px;
+}
+
+input.edit {
+font-size:14px;
+border:1px solid #8cacbb;
+color:#000;
+background: url(buttonshadow.png) bottom repeat-x #fff;
+vertical-align:middle;
+margin:2px;
+padding:3px;
+display:inline;	
+}
+
+input.edit:hover {
+background : #fff url(buttonshadow2.png) repeat-x bottom;    
+cursor : pointer;
+}
+
+input.edit:active {
+background : #fff url(buttonshadow3.png) repeat-x top;    
+cursor : pointer;
+}
+
+input.edit2 {
+font-size:14px;
+border:1px solid #8cacbb;
+color:#000;
+background: url(inputshadow.png) repeat-x #fff;
+vertical-align:middle;
+margin:2px;
+padding:3px;
+display:inline;	
+}
+
+.rmenu{
+color : #ff0000; 
+background-color : #ffe0e2;
+background-image : url(rmenu.gif); 
+background-repeat : repeat-x; 
+background-position : 50% top; 
+padding : 2px; 
+border : 1px solid #ffaeb1;
+}

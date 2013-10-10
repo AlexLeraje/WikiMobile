@@ -1,0 +1,3 @@
+action=1;
+interval=120;
+flood_limit=50;

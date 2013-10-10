@@ -1,0 +1,55 @@
+span.center
+{
+  display: block;
+  text-align: center;  
+}
+
+span.right
+{
+  display: block;
+  text-align: right;  
+}
+
+span.left
+{
+  display: block;
+  text-align: left;  
+}
+
+span.h2
+{
+   display: block;
+   font-weight: bold;
+   font-size: 23px; 
+}
+
+span.h3
+{
+   display: block;
+   font-weight: bold;
+   font-size: 21px; 
+}
+
+span.h4
+{
+   display: block; 
+   font-weight: bold;
+   font-size: 19px; 
+}
+
+.left_float
+{
+   float: left; margin-right: 5px; 
+}
+
+.right_float
+{
+   float: right; margin-left: 5px; 
+}
+
+.none_float
+{
+   clear: none; 
+}
+
+

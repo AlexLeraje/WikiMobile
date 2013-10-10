@@ -1,0 +1,38 @@
+==Использование WikiMobile:==<hr/>
+
+[http://annimon.com|{{img:wikimobile_4_13.png?x50|wikimobile_4.png}}]
+
+[[werwert<br>]]
+
+
+<code php>    $out=array();
+    $a=0;
+    $count=count($text);
+    for($i=0;$i<=$count-1;$i++)
+    {
+       $outlen=mb_strlen(strip_tags($out[$a]));
+       $len=mb_strlen(strip_tags($text[$i]));
+       if (($outlen+$len) <= $set['symbols'])
+       {
+          $out[$a] .= $text[$i].' ';
+       }
+       else
+       {
+           $out[$a] .= $text[$i].' ';
+           $a++; 
+       }
+    }</code>
+sdiufgsdhbofnsd
+* [color ff0000]sjdbfsdjkf[/color]
+* kjdf;ovbjfdvbfdnb
+
+
+==Использование WikiMobile:==<hr/>
+ * [[Возможности|Список возможностей]]
+ * [[Синтаксис|Wiki-синтаксис]]
+ * [[Все версии]]
+ * **[[Платная версия]]** [color ff0000](new)[/color]
+ * **[[WikiMobile 1.2|Скачать]]** (v.1.2)
+==Поддержка:==<hr/>cvxszdsfczxcwsdaыфчsads
+
+ {{img:sdfsf_21.png|sdfsf.png}}sdfsсячв

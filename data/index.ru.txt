@@ -1,0 +1,16 @@
+==Что такое WikiMobile?==----
+**WikiMobile** - это бесплатный движок wiki, написанный на php/mysql, предназначенный главным образом для создания и удобного хранения различной документации или справочной информации и оптимизированный для комфортного просмотра на мобильных устройствах.
+==Содержание:==------
+{|width: 100%; backgroung: transparent; border-color: transparent;
+|[http://annimon.com|{{img:prop_23.png?43x |prop.png}}]**[http://annimon.com|Возможности]**---- 
+[[Документация|]]
+|-
+|[http://annimon.com|{{img:syn_24.png?43x |syn.png}}]**[http://annimon.com|Wiki-синтаксис]**----
+[[Ссылки]] | [[Файлы]] | [[Текст]]
+|-
+|[http://annimon.com|{{img:pay_26.png?43x |pay.png}}] **[http://annimon.com|Платная версия]**----
+Стоимость 200р.
+|-
+|[http://annimon.com|{{img:load_25.png?43x |load.png}}] **[[Скачать|Скачать 1.3]]**----
+[[Все версии]]
+|}

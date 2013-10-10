@@ -1,0 +1,17 @@
+==WikiMobile 1.3==----
+;You have successfully installed **WikiMobile**! If you have a hosting service is a function __[http://php.su/functions/?mail|mail()]__, then in your script (Admin Panel => Settings WIKI => General Settings) set the checkbox next to "Register via e-mail", it will significantly increase the security of the script.
+==Help:==------
+{|width: 100%; backgroung: transparent; border-color: transparent;
+|[http://wikimobile.su/wiki/Возможности|{{img:prop_4.png?43x |prop.png}}]**[http://wikimobile.su/wiki/Возможности|Capabilities]**---- 
+[http://wikimobile.su/wiki/Документация|Documentation]
+|-
+|[http://wikimobile.su/wiki/Синтаксис|{{img:syn_3.png?43x |syn.png}}]**[http://wikimobile.su/wiki/Синтаксис|Wiki-syntax]**----
+[http://wikimobile.su/wiki/Синтаксис:Ссылки|Links] | [http://wikimobile.su/wiki/Синтаксис:Файлы|Files] | [http://wikimobile.su/wiki/Синтаксис:Текст|Lyrics]
+|-
+|[http://wikimobile.su/wiki/Платная_версия|{{img:pay_5.png?43x |pay.png}}] **[http://wikimobile.su/wiki/Платная_версия|The paid version]**----
+The cost of 200wmr (6.8 $).
+|-
+|[http://annimon.com|{{img:wiki_2.png?43x |wiki.png}}] **[http://annimon.com|Support:]**
+----
+[http://annimon.com/forum/id49978|aNNiMON.com] | [http://wikimobile.su|WikiMobile.su]
+|}
