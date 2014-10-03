@@ -148,7 +148,8 @@ elseif($act)  // папка "modules/act"
    } 
 }
 else
-{ 
+{
+
    $err=abs(intval($_GET['err']));
    if ($err==1)
      $err=$lang['sec_dnt_ex'];
